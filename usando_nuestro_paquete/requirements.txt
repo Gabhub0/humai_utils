@@ -1,2 +1,2 @@
 pandas
-https://github.com/Gabhub0/humai_utils.git
+git+https://github.com/Gabhub0/humai_utils.git
