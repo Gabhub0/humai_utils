@@ -13,6 +13,6 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/Gabhub0/humai_utils',
     license='MIT',
-    packages=['humai_utils'],
+    packages=['package'],
     install_requires=['requests'],
 )
